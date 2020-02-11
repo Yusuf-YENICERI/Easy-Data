@@ -15,7 +15,7 @@ Resimler:
 
 # Easy Data
 
-Transfer the data to the database fastly.
+Transfer the data to the database table fastly.
 
 This application is developed to prevent students to enter the data one by one in the database lab.
 
