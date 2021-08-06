@@ -1,10 +1,10 @@
-# Kolay Veri
+# Easy Data
 
-Hızlı bir şekilde verileri veritabanı tablosuna aktar.
+Transfer the data to the database table fastly.
 
-Bu uygulama veritabanı labında öğrencilerin verileri tek tek girmesini önlemek için geliştirilmiştir.
+This application is developed to prevent students to enter the data one by one in the database lab.
 
-Resimler:
+Pictures:
 
 ![5](https://user-images.githubusercontent.com/38917909/74288779-5bb32680-4d3e-11ea-8b92-a1947d732182.png)
 
@@ -13,13 +13,13 @@ Resimler:
 ![7](https://user-images.githubusercontent.com/38917909/74288791-6077da80-4d3e-11ea-8550-8fb65d7a9cf8.png)
 
 
-# Easy Data
+# Kolay Veri
 
-Transfer the data to the database table fastly.
+Hızlı bir şekilde verileri veritabanı tablosuna aktar.
 
-This application is developed to prevent students to enter the data one by one in the database lab.
+Bu uygulama veritabanı labında öğrencilerin verileri tek tek girmesini önlemek için geliştirilmiştir.
 
-Pictures:
+Resimler:
 
 ![5](https://user-images.githubusercontent.com/38917909/74288779-5bb32680-4d3e-11ea-8b92-a1947d732182.png)
 
